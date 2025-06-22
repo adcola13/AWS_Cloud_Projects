@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "My Server vmdk",
+    "Format": "vmdk",
+    "UserBucket": {
+        "S3Bucket": "server-migration-adrina",
+        "S3Key": "CentOS_7_64-bit-disk1.vmdk"
+    }
+}]
