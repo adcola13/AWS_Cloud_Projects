@@ -1,0 +1,13 @@
+Deploying Foundation Models with Amazon SageMaker AI
+
+Project successfully deployed foundation models using Amazon SageMaker AI—leveraging JumpStart and Studio to bring cutting-edge generative AI capabilities into seamless production.
+
+Key Highlights:
+* Configured and launched SageMaker Studio environments for streamlined model deployment and experimentation.
+* Deployed foundation models (e.g., DeepSeek‑R1 variants) via SageMaker JumpStart, setting up real-time inference endpoints using the SageMaker Python SDK.
+* Implemented prompt experimentation—zero-shot, one-shot, few-shot, plus chain-of-thought techniques—to refine and enhance generative responses.
+* Tuned output behavior using parameters like temperature to balance creativity and accuracy.
+* Utilized fast-launch Studio notebooks with persistent storage to collaborate efficiently.
+* Completed endpoint lifecycle management—from setup to inference testing and cleanup.
+
+This project not only underscores the power and flexibility of Amazon SageMaker AI but also highlights the impact of applying prompt engineering strategies for high-quality model outputs.
