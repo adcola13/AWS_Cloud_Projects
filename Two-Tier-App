@@ -1,1 +1,0 @@
-Create a two-tier app that is highly available by introducing autoscaling and a read replica of a database deployed in multi-AZ.
